@@ -94,6 +94,8 @@
 width: 30px;
 height: 30px;
 display: inline-block;
-
+position: absolute;
+bottom: 2%;
+left: 50%;
 
  }
